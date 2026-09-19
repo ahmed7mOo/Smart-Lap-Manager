@@ -94,9 +94,9 @@ The database includes:
 - [Changelog](CHANGELOG.md)
 ## License
 
-This project is developed for academic and educational purposes.
 
-See the [LICENSE](LICENSE) file for more information.
+
+
 ## 🚀 Installation
 
 1. Clone the repository:
@@ -168,3 +168,8 @@ Computer Department
 This project was developed for educational and graduation project purposes.
 
 **License:** Educational
+## License
+
+This project is developed for academic and educational purposes.
+
+See the [LICENSE](LICENSE) file for more information.
