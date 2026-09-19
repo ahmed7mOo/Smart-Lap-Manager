@@ -92,7 +92,11 @@ The database includes:
 
 - [Frequently Asked Questions (FAQ)](FAQ.md)
 - [Changelog](CHANGELOG.md)
+## License
 
+This project is developed for academic and educational purposes.
+
+See the [LICENSE](LICENSE) file for more information.
 ## 🚀 Installation
 
 1. Clone the repository:
