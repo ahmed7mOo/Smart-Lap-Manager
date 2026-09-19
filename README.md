@@ -88,7 +88,10 @@ The database includes:
 
 ## Documentation
 
-- [Frequently Asked Questions (FAQ)](FAQ.md)---
+- [Frequently Asked Questions (FAQ)](FAQ.md)---## Documentation
+
+- [Frequently Asked Questions (FAQ)](FAQ.md)
+- [Changelog](CHANGELOG.md)
 
 ## 🚀 Installation
 
