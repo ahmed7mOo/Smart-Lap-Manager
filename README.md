@@ -86,7 +86,9 @@ The database includes:
 - JavaScript
 - GitHub
 
----
+## Documentation
+
+- [Frequently Asked Questions (FAQ)](FAQ.md)---
 
 ## 🚀 Installation
 
